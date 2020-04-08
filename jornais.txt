@@ -1,0 +1,5 @@
+Globo Esporte=95
+Espn=90
+Lance=85
+Fox Sports=70
+Ole do Brasil=0
